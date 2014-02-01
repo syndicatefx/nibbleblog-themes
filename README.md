@@ -1,4 +1,4 @@
 Nibbleblog-themes
 =================
 
-Themes for Nibbleblog by Syndicatefx
+Themes for <a href="https://github.com/dignajar/nibbleblog">Nibbleblog</a> by Syndicatefx
