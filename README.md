@@ -1,4 +1,4 @@
-nibbleblog-themes
+Nibbleblog-themes
 =================
 
 Themes for Nibbleblog by Syndicatefx
