@@ -46,5 +46,5 @@ $(document).ready(function(){
 		$(this).toggleClass('close');
     	$('body').toggleClass('shift');
 	});
-	$('footer').append(' &bull; <a href="">Theme Note II</a>')
+	$('footer').append(' &bull; <a href="http://syndicatefx.com/note-theme-2/">Theme Note II</a>')
 });
